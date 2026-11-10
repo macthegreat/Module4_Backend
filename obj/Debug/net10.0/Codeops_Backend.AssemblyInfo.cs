@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Codeops_Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40cfddcecfc89bf7a54908022397dea3195444e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Codeops_Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Codeops_Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

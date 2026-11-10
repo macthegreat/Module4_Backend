@@ -12,3 +12,4 @@
 /Users/administrator/Documents/IBT/Codeops_Backend/Codeops_Backend/obj/Debug/net10.0/Codeops_Backend.pdb
 /Users/administrator/Documents/IBT/Codeops_Backend/Codeops_Backend/obj/Debug/net10.0/Codeops_Backend.genruntimeconfig.cache
 /Users/administrator/Documents/IBT/Codeops_Backend/Codeops_Backend/obj/Debug/net10.0/ref/Codeops_Backend.dll
+/Users/administrator/Documents/IBT/Codeops_Backend/Codeops_Backend/obj/Debug/net10.0/Codeops_Backend.sourcelink.json
